@@ -198,3 +198,23 @@ Implemented functionality to sort all contact entries in the Address Book alphab
 [feature/UC11-sort-contacts-by-name](https://github.com/Prashant-kumar-sharma/AddressBookApp/tree/feature/UC11-sort-contacts-by-name)
 
 ---
+
+# Section 2: IO Streams 
+---
+
+## UC13 – Ability to Read or Write Address Book to a File (File IO)
+
+Implemented functionality to store and retrieve Address Book contacts using Java File IO.
+
+**Features Implemented**
+
+- Used **Java File IO** to write Address Book data to a file.
+- Implemented functionality to **read contacts from the file**.
+- Stored contact details such as name, address, city, state, zip, phone, and email.
+- Displayed file content in the **console** after reading.
+
+**GitHub Branch**
+
+[feature/UC13-read-write-addressbook-file-io](https://github.com/Prashant-kumar-sharma/AddressBookApp/tree/feature/UC13-read-write-addressbook-file-io)
+
+---
