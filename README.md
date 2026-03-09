@@ -143,7 +143,7 @@ Implemented functionality to search for contacts across multiple Address Books b
 
 **GitHub Branch**
 
-[feature/UC8-search-person-by-city-or-state](https://github.com/rashi-raj/AddressBookApp/tree/feature/UC8-search-person-by-city-or-state)
+[feature/UC8-search-person-by-city-or-state](https://github.com/Prashant-kumar-sharma/AddressBookApp/tree/feature/UC8-search-person-by-city-or-state)
 
 ---
 
